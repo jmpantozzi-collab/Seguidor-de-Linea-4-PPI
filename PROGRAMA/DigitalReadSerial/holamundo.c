@@ -1,2 +1,3 @@
 #include<stdio>
-printf("hola mundo");
+printf("hola mundo 2");
+return;
